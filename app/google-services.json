@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842417873969",
+    "project_id": "codingbooks-54103",
+    "storage_bucket": "codingbooks-54103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842417873969:android:2facfeebfa5fca4fd8a110",
+        "android_client_info": {
+          "package_name": "com.example.codingbooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksVz4oT53rfAs7Zfe-ou8JIj4BYgEn6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
